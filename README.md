@@ -1,2 +1,4 @@
-# ios-test-night
-iOS Test Night
+# iOS Test Night
+
+Test Night / connpass
+https://testnight.connpass.com/
